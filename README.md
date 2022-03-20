@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Blueprints
 - Vanilla
+  1.0 Bootstrap base
+  2.0
 - Karstorio 2
 - Space Exploration
 - Space Ex & Krastorio
